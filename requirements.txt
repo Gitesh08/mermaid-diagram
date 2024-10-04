@@ -1,0 +1,10 @@
+streamlit
+torch
+transformers
+numpy
+pandas
+protobuf
+sentencepiece
+accelerate
+google-generativeai 
+python-dotenv
