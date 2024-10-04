@@ -1,6 +1,10 @@
-# 🔀 Workflow Diagram Generator
+# Workflow Diagram Generator✦
 
-Generate beautiful, interactive workflow diagrams from text descriptions using AI and Mermaid.js! 🤖✨
+Generate beautiful, interactive workflow diagrams from text descriptions using Gemini✦ and Mermaid.js! 🤖✨
+
+## 🎬 Demo
+
+![Untitleddesign2-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/a3658803-13f9-41a0-89c2-ea4fb6722609)
 
 ## 📊 Application Flow
 
@@ -83,9 +87,15 @@ Visit `http://localhost:8501` in your web browser to use the application.
 3. Mention any parallel processes or conditions if applicable.
 4. If the generated diagram isn't perfect, you can always edit the code manually.
 
+## 📖 Detailed Guide
+
+For a comprehensive guide on how this project works and how to make the most of it, check out our detailed blog post on Medium:
+
+[How to Generate Workflow Diagrams Using Gemini✦](https://medium.com/@yourusername/building-an-ai-powered-workflow-diagram-generator-a-deep-dive)
+
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/yourusername/workflow-diagram-generator/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/Gitesh08/workflow-diagram-generator/issues).
 
 ## 📜 License
 
@@ -96,7 +106,8 @@ This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 **Gitesh Mahadik**
 
 - LinkedIn: [@gitesh-mahadik](https://www.linkedin.com/in/gitesh-mahadik-7487961a0/)
-- Github: [@yourusername](https://github.com/Gitesh08)
+- Github: [@Gitesh08](https://github.com/Gitesh08)
+- Medium: [@gitesh08](https://medium.com/@gitesh08)
 
 ## 🙏 Acknowledgements
 
