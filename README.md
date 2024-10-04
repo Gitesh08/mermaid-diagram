@@ -1,6 +1,6 @@
 # Workflow Diagram Generator
 
-Generate beautiful, interactive workflow diagrams from text descriptions using Gemini✦ and Mermaid.js! 🤖✨
+>Generate beautiful, interactive workflow diagrams from text descriptions using Gemini✦ and Mermaid.js! 🤖✨
 
 ## 🎬 Demo
 
