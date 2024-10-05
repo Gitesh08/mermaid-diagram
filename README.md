@@ -91,7 +91,7 @@ Visit `http://localhost:8501` in your web browser to use the application.
 
 For a comprehensive guide on how this project works and how to make the most of it, check out our detailed blog post on Medium:
 
-[How to Generate Workflow Diagrams Using Gemini✦](https://medium.com/@yourusername/building-an-ai-powered-workflow-diagram-generator-a-deep-dive)
+[How to Generate Workflow Diagrams Using Gemini✦](https://medium.com/google-cloud/how-to-generate-workflow-diagrams-using-gemini-8d3d538bd2e7)
 
 ## 🤝 Contributing
 
