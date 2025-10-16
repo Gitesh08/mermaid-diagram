@@ -49,8 +49,8 @@ graph TD
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/workflow-diagram-generator.git
-   cd workflow-diagram-generator
+   git clone https://github.com/Gitesh08/mermaid-diagram.git
+   cd mermaid-diagram
    ```
 
 2. Install the required packages:
@@ -95,11 +95,11 @@ For a comprehensive guide on how this project works and how to make the most of 
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/Gitesh08/workflow-diagram-generator/issues).
+Contributions, issues, and feature requests are welcome! 
 
 ## 📜 License
 
-This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
+This project is MIT licensed.
 
 ## 👨‍💻 Author
 
@@ -108,13 +108,5 @@ This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 - LinkedIn: [@gitesh-mahadik](https://www.linkedin.com/in/gitesh-mahadik-7487961a0/)
 - Github: [@Gitesh08](https://github.com/Gitesh08)
 - Medium: [@gitesh08](https://medium.com/@gitesh08)
-
-## 🙏 Acknowledgements
-
-- [Streamlit](https://streamlit.io/)
-- [Google Generative AI](https://cloud.google.com/ai-platform/docs/generative-ai)
-- [Mermaid.js](https://mermaid-js.github.io/mermaid/#/)
-
----
 
 Built with ❤️ by Gitesh Mahadik
